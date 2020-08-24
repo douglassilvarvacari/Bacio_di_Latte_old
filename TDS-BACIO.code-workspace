@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"totvsLanguageServer.welcomePage": false,
+		"[advpl]": {
+			"files.encoding": "windows1252"
+		},
+		"totvsLanguageServer.askEncodingChange": false,
+		"advpl.workspaceFolders": "c:\\TOTVS\\Clientes\\Bacio\\TDS\\Bacio_Di_Latte;",
+		"advpl.debug_multiThread": true
+	},
+	"launch": {
+		"configurations": [
+		
+		]
+	}
+}

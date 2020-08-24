@@ -1,0 +1,63 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Advpl Debug",
+			"type": "advpl",
+			"request": "launch",
+			"args": [],
+			"cwd": "${workspaceRoot}",
+			"programRun": "${command:AskForProgramName}",
+			"stopOnEntry": false,
+			"enviromentInfo": "${command:GetEnvInfos}",
+			"workspace": "${workspaceFolder}/"
+		},
+		{
+			"type": "totvs_language_debug",
+			"request": "launch",
+			"cwb": "${workspaceRoot}",
+			"name": "P12SQL_12_1_27",
+			"smartclientBin": "C:\\TOTVS\\Local\\smartclient\\smartclient.exe",
+			"program": "${command:AskForProgramName}",
+			"programArguments": "${command:AskForProgramArguments}",
+			"enableMultiThread": false,
+			"enableProfile": false,
+			"isMultiSession": true,
+			"isAccessibilityMode": false,
+			"doNotShowSplash": false,
+			"language": "",
+			"ignoreFiles": true,
+			"enableTableSync": true
+		},
+		{
+			"type": "totvs_language_debug",
+			"request": "launch",
+			"cwb": "${workspaceRoot}",
+			"name": "SSNP9K_PRD",
+			"smartclientBin": "C:\\TOTVS\\Clientes\\Bacio\\SmartClients\\Produção\\smartclient.exe",
+			"program": "${command:AskForProgramName}",
+			"programArguments": "${command:AskForProgramArguments}",
+			"enableMultiThread": false,
+			"enableProfile": false,
+			"isMultiSession": true,
+			"isAccessibilityMode": false,
+			"doNotShowSplash": false,
+			"language": "",
+			"ignoreFiles": true,
+			"enableTableSync": true
+		}
+	],
+	"lastPrograms": [
+		{
+			"args": [],
+			"label": "SIGAADV",
+			"description": ""
+		},
+		{
+			"args": [],
+			"label": "SIGAEST",
+			"description": ""
+		}
+	],
+	"lastProgramExecuted": "SIGAADV"
+}

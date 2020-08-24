@@ -1,0 +1,33 @@
+{
+    "totvsLanguageServer.welcomePage": false,
+    "totvsLanguageServer.askCompileResult": true,
+    "advpl.environments": [
+        {
+            "smartClientPath": "D:\\Analise\\Clientes\\Bacio Di Latte\\Protheus\\SmartClient_Produção",
+            "environment": "SSNP9K_PRD_COMP_ERP",
+            "includeList": "D:\\Analise\\Clientes\\Bacio Di Latte\\Protheus\\include",
+            "server": "ssnp9k.prd.protheus.totvscloud.com.br",
+            "port": "11001",
+            "user": "douglas.silva",
+            "passwordCipher": "V0RPczh0UWhJUWR4cFZQbzcxN0hiYWd6dG8yR0lZTjBFbzNkVHdEZlNIbVVoZ09McEhyS0cwM1RaUlVTVkVaVTBYUjVnMFJqZmpwRGYvZnlNa2NJL2hjMVppL0ZUenVJSEliM0lYNWhGRGZvN3dFZ1lZeDhKZ3c2ZHAvaUdBbDk="
+        },
+        {
+            "environment": "P12SQL_17",
+            "name": "P12SQL_17",
+            "server": "127.0.0.1",
+            "port": "4017",
+            "serverVersion": "170117A",
+            "passwordCipher": "eU5CMXJIV0JTMTJpRE5qUXhmMjJhTFdDTW5nYlMzS2JtY0twUDBKQXRrT1IxTTkxaFFLNFBQdFQ2SW5oeVdhc0VSQmZ4Ym1NcXBib210dFYxbEkvUDhkUVJ0QVBVQ2FuNWx5ak1BaVZaOU9xVFVsN0hiZ0dtUkhUN0R3amhsVlc=",
+            "includeList": "c:\\TOTVS\\Protheus12_17\\Protheus\\bin\\smartclient\\",
+            "user": "admin",
+            "smartClientPath": "c:\\TOTVS\\Protheus12_17\\Protheus\\bin\\smartclient",
+            "enable": false
+        }
+    ],
+    "advpl.workspaceFolders": "c:\\TOTVS\\Clientes\\Bacio\\TDS\\Bacio_Di_Latte;",
+    "totvsLanguageServer.askEncodingChange": false,
+    "[advpl]": {
+        "files.encoding": "windows1252"
+    },
+    "advpl.debug_multiThread": true
+}
