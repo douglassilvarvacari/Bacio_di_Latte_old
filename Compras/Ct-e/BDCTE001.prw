@@ -27,6 +27,7 @@ User Function DBCTE001()
         processa( {|| Importxt(MV_PAR01) } ,'Aguarde Efetuando Importacao da Planilha' )
     EndIf
 
+
 RETURN
 
 Static Function Importxt(cFile)
